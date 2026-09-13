@@ -1,6 +1,4 @@
 # Veterinary-Clinic-Acquisition-Underwriting
-# Veterinary Clinic Acquisition Underwriting
-
 *Private Equity | Real Estate | Due Diligence | Transaction Underwriting*
 
 > Project completed at **Lionchase North America** as a **Fund Advisory Intern**, supporting underwriting and due diligence for the **Acxtus Fund** on a live approximately **$20M veterinary clinic acquisition**.
